@@ -1,0 +1,11 @@
+Os principais pontos abordados são:
+
+Criar um Copiloto: O primeiro passo é a criação do agente. O guia destaca que você pode dar um nome ao seu copiloto e, mais importante, fornecer a ele um link para um site público. A plataforma usará esse site como uma base de conhecimento inicial, permitindo que o copiloto responda a perguntas sobre o conteúdo daquele site usando IA generativa.
+
+Criar um Tópico: Os "Tópicos" são os fluxos de conversa personalizados que você constrói. O tutorial ensina como criar um novo tópico, definir as frases de gatilho (o que o usuário diz para iniciar a conversa) e montar o diálogo em uma tela visual, adicionando mensagens, perguntas e outras ações.
+
+Testar seu Tópico: A plataforma inclui um painel de teste integrado. Isso permite que você converse com seu copiloto em tempo real, à medida que o desenvolve, para garantir que os diálogos funcionem como esperado.
+
+Aprimorar com IA Generativa: O guia reforça que, além dos tópicos que você cria manualmente, a IA generativa permite que o copiloto responda a uma variedade maior de perguntas, usando as informações do site que você forneceu.
+
+Publicar seu Bot: A etapa final é a publicação. Depois de testado, você publica o copiloto para ativá-lo e prepará-lo para ser implementado em diferentes canais, como um site da empresa ou o Microsoft Teams.
